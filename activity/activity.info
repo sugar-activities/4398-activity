@@ -1,0 +1,8 @@
+[Activity]
+name = Trails
+activity_version = 6 
+host_version = 1
+bundle_id = mulawa.Trails
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
